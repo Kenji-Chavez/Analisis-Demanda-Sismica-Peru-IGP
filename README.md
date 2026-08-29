@@ -51,6 +51,16 @@ PGA_RESULTANTE = √(ACEL_VERTICAL² + ACEL_NORTE_SUR² + ACEL_ESTE_OESTE²)
   4. **Áncash:** 294.00 cm/s²
 * **Promedio nacional:** **5.61 cm/s²**.
 
+## 💡 Recomendaciones
+
+* Utilizar los resultados como apoyo para identificar zonas que han registrado mayores niveles de aceleración del suelo.
+* Fortalecer el monitoreo de estaciones acelerométricas ubicadas en zonas con registros elevados de PGA.
+* Integrar los datos sísmicos con información de población, infraestructura y vulnerabilidad para futuros análisis de riesgo.
+* Mantener actualizados los registros para realizar un seguimiento continuo de nuevos eventos sísmicos.
+* Promover el uso de información sísmica como apoyo para la prevención y preparación ante posibles emergencias.
+
+> **Nota:** El análisis no busca predecir la ocurrencia de futuros sismos, sino transformar registros históricos en información que pueda servir como insumo para la prevención y gestión del riesgo.
+
 ## 📁 Estructura del Repositorio
 
 ```text
