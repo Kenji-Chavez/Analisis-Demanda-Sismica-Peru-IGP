@@ -67,5 +67,5 @@ df_final = df[columnas_deseadas]
 ruta_salida = r'C:\Users\Kenji\Desktop\PROYECTO ANALISIS DE DATOS\ACELDAT_Peru_Procesado.csv'
 df_final.to_csv(ruta_salida, index=False, sep=';', encoding='utf-8-sig')
 
-print("¡Dataset exportado limpiamente para Power BI sin columnas con error!")
+print("Dataset exportado limpiamente para Power BI")
 print(df_final)
