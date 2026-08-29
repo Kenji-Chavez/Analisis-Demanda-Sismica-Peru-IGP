@@ -4,7 +4,7 @@
 
 Este proyecto implementa un **pipeline end-to-end de datos** para procesar, transformar y analizar registros de **Aceleración Máxima del Suelo (PGA)** emitidos por la Red Sísmica Nacional del **Instituto Geofísico del Perú (IGP)** mediante el servicio **ACELDAT_Perú**.
 
-El objetivo es evaluar la intensidad y distribución espacial y temporal de la demanda sísmica generada por eventos de **magnitud ≥ 4.5**, permitiendo identificar las regiones, distritos y estaciones acelerométricas con mayores niveles de aceleración.
+El objetivo es evaluar la intensidad, distribución espacial y temporal de la demanda sísmica generada por eventos de **magnitud ≥ 4.5**, permitiendo identificar las regiones, distritos y estaciones acelerométricas con mayores niveles de aceleración.
 
 ## 🛠️ Tecnologías y Herramientas
 
