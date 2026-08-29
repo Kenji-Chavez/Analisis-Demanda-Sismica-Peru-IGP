@@ -27,7 +27,8 @@ El flujo de procesamiento implementado en `analisis.py` resuelve las anomalías 
 
 1. **Ingeniería de Características:** 
    Se combinaron vectorialmente las tres componentes de aceleración sísmica ($Z$, $N-S$, $E-O$) para obtener la **Aceleración Máxima Resultante (PGA)**, el indicador técnico fundamental de sacudimiento del suelo:
-   $$\text{PGA\_RESULTANTE} = \sqrt{\text{ACEL\_VERTICAL}^2 + \text{ACEL\_NORTE\_SUR}^2 + \text{ACEL\_ESTE\_OESTE}^2}$$
+   ```text
+   PGA_RESULTANTE = sqrt(ACEL_VERTICAL^2 + ACEL_NORTE_SUR^2 + ACEL_ESTE_OESTE^2)
 
 2. **Estandarización y Limpieza Temporal:**
    * Inferencia de fechas mediante respaldo cruzado entre `FECHA_EVENTO` y `FECHA_CORTE`[cite: 1].
